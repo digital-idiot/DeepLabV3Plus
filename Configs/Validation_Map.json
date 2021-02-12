@@ -1,0 +1,12 @@
+{
+    "Potsdam_06_11_1_1": {
+        "IMAGE": "Data/Validation_Data/Images/RGBIR_Potsdam_06_11_1_1.tif",
+        "LABEL": "Data/Validation_Data/Labels/Label_Potsdam_06_11_1_1.tif",
+        "LPRED": null
+    },
+    "Potsdam_07_07_0_0": {
+        "IMAGE": "Data/Validation_Data/Images/RGBIR_Potsdam_07_07_0_0.tif",
+        "LABEL": "Data/Validation_Data/Labels/Label_Potsdam_07_07_0_0.tif",
+        "LPRED": null
+    }
+}

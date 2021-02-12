@@ -1,0 +1,22 @@
+{
+    "Potsdam_02_10_1_0": {
+        "IMAGE": "Data/Train_Data/Images/RGBIR_Potsdam_02_10_1_0.tif",
+        "LABEL": "Data/Train_Data/Labels/Label_Potsdam_02_10_1_0.tif",
+        "LPRED": null
+    },
+    "Potsdam_02_10_1_1": {
+        "IMAGE": "Data/Train_Data/Images/RGBIR_Potsdam_02_10_1_1.tif",
+        "LABEL": "Data/Train_Data/Labels/Label_Potsdam_02_10_1_1.tif",
+        "LPRED": null
+    },
+    "Potsdam_04_10_0_0": {
+        "IMAGE": "Data/Train_Data/Images/RGBIR_Potsdam_04_10_0_0.tif",
+        "LABEL": "Data/Train_Data/Labels/Label_Potsdam_04_10_0_0.tif",
+        "LPRED": null
+    },
+    "Potsdam_04_10_0_1": {
+        "IMAGE": "Data/Train_Data/Images/RGBIR_Potsdam_04_10_0_1.tif",
+        "LABEL": "Data/Train_Data/Labels/Label_Potsdam_04_10_0_1.tif",
+        "LPRED": null
+    }
+}

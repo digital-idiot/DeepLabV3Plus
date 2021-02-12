@@ -1,0 +1,7 @@
+{
+    "Potsdam_03_14_0_0": {
+        "IMAGE": "Data/Test_Data/Images/RGBIR_Potsdam_03_14_0_0.tif",
+        "LABEL": null,
+        "LPRED": null
+    }
+}

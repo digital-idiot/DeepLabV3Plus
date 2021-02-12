@@ -1,0 +1,13 @@
+{
+    "image_height": 6000,
+    "image_width" : 6000,
+    "bands" : [1, 2, 3, 4, 5],
+    "window_height" : 512,
+    "window_width" : 512,
+    "min_height_overlap" : 16,
+    "min_width_overlap" : 16,
+    "class_count" : 6,
+    "data_shuffle" : true,
+    "boundless_flag" : true,
+    "batchsize":8
+}
